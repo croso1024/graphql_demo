@@ -11,7 +11,7 @@ The demo database schema and test data can be created using `create_db.sql` and 
 This is a simple library management database example that demonstrates GraphQL query capabilities.
 The ER dirgram below :
 
-<img title="ER-diagram" alt="ER-diagram" src="./Demo_ERD.jpg" width=400>
+<img title="ER-diagram" alt="ER-diagram" src="./database_schema.png" width=400>
 
 In addition to the Hasura demo, This demo project also prepared a simple GraphQL backend server implementation using Chalice as the backend framework. This server shares the same PostgreSQL library management example with the Hasura GraphQL server.
 
