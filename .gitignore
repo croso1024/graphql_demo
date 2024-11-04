@@ -1,0 +1,5 @@
+.chalice/deployments/
+.chalice/venv/
+slide_material/
+*.graphql
+__pycache__/
